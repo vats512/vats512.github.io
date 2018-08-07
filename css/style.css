@@ -54,7 +54,7 @@ body a:focus {
 /*-- banner --*/
 
 .banner {
-    background: url(../images/bg2.jpg)no-repeat center 0px fixed;
+    background: url(../images/bg2.jpeg)no-repeat center 0px fixed;
     background-size: cover;
     -webkit-background-size: cover;
     -o-background-size: cover;
@@ -862,7 +862,7 @@ div#services {
 /*-- Contact --*/
 
 .contact-main-w3ls {
-    background: url(../images/contact.jpg) no-repeat center;
+    background: url(../images/bg2.jpeg) no-repeat center;
     background-size: cover;
 	-webkit-background-size: cover;
     -o-background-size: cover;
