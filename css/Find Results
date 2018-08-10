@@ -1,0 +1,10 @@
+Searching 17 files for "bg2" (regex)
+
+/Users/vatsalshah/vats512.github.io/css/style.css:
+   55  
+   56  .banner {
+   57:     background: url(../images/bg2.jpeg)no-repeat center 0px fixed;
+   58      background-size: cover;
+   59      -webkit-background-size: cover;
+
+1 match in 1 file

@@ -1,0 +1,39 @@
+Exp
+								<div class="col-sm-3 w3_tab_img_left">
+									<div class="demo">
+										<a class="cm-overlay" href="images/g4.jpg">
+											<figure class="imghvr-shutter-in-out-diag-2"><img src="images/g4.jpg" alt=" " class="img-responsive" />
+											</figure>
+										</a>
+									</div>
+									<div class="agile-gallery-info">
+										<h5>Big Data Exploratory</h5>
+										<p>A hands on experience on Apache Hadoop, MapReduce, and Spark technologies.</p>
+									</div>
+								</div>
+
+								<div class="col-sm-3 w3_tab_img_left">
+									<div class="demo">
+										<a class="cm-overlay" href="images/g5.jpg">
+											<figure class="imghvr-shutter-in-out-diag-2"><img src="images/g5.jpg" alt=" " class="img-responsive" />
+											</figure>
+										</a>
+									</div>
+									<div class="agile-gallery-info">
+										<h5>Computer Vision Exploratory</h5>
+										<p>A hands on experience on developing the Computer Vision Scene Analysis Algorithms from Scratch.</p>
+									</div>
+								</div>
+
+								<div class="col-sm-3 w3_tab_img_left">
+									<div class="demo">
+										<a class="cm-overlay" href="images/g6.jpg">
+											<figure class="imghvr-shutter-in-out-diag-2"><img src="images/g6.jpg" alt=" " class="img-responsive" />
+											</figure>
+										</a>
+									</div>
+									<div class="agile-gallery-info">
+										<h5>Vue.js and Vuex exploratory</h5>
+										<p>A hands on experience on learning the Vue Framework and Vuex.</p>
+									</div>
+								</div>
